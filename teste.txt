@@ -1,5 +1,5 @@
 
-Aqruivo de teste
+Arquivo de teste
 
 testets
 fazendo qualquer coisa
